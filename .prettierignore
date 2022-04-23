@@ -2,5 +2,8 @@
 next-env.d.ts
 node_modules
 yarn.lock
+.prettierrc
+jest.config.js
+jest.setup.js
 package-lock.json
 public
